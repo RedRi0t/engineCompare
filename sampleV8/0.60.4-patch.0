@@ -1,0 +1,15 @@
+yarn add v1.16.0
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+info fsevents@1.2.9: The platform "win32" is incompatible with this module.
+info "fsevents@1.2.9" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 2 new dependencies.
+info Direct dependencies
+└─ react-native-v8@0.60.0
+info All dependencies
+├─ react-native-v8@0.60.0
+└─ v8-android@7.5.1
+Done in 31.86s.
