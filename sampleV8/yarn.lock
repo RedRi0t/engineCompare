@@ -1092,9 +1092,9 @@ acorn-walk@^6.0.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1:
   version "6.3.0"
@@ -5269,10 +5269,10 @@ react-native-tab-view@^0.0.65:
   dependencies:
     prop-types "^15.5.8"
 
-react-native-v8@^0.60.4-patch.1:
-  version "0.60.4-patch.1"
-  resolved "https://registry.yarnpkg.com/react-native-v8/-/react-native-v8-0.60.4-patch.1.tgz#1e5b1a65d4b32e46bb7e9047ec9215029074135f"
-  integrity sha512-QeTu7cak1DitkBbuwERzP23TrHoJIRwLaSjyIi5sDp47Pk9HybQB8nuILHun19H76dn9q0Poy6wzOJhqIIDgiQ==
+react-native-v8@^0.60.0:
+  version "0.60.0"
+  resolved "https://registry.yarnpkg.com/react-native-v8/-/react-native-v8-0.60.0.tgz#60e33b54f7edb44eb3ad1421e5f9b557b6ba6360"
+  integrity sha512-bPPa4dHq2KfWls103gqG5ulLbvl+rXVY53TlLlKBTRPb77aT5M2y21SMU/R0qfN5RHT9u0gQNalhr+c2ly5lFg==
   dependencies:
     v8-android "^7.5.1"
 
