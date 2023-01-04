@@ -3839,11 +3839,9 @@ json-stringify-safe@~5.0.1:
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
 json5@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.1.0.tgz#e7a0c62c48285c628d20a10b85c89bb807c32850"
-  integrity sha512-8Mh9h6xViijj36g7Dxi+Y4S6hNGV96vcJZr/SrlHh1LR/pEn/8j/+qIBbs44YKl69Lrfctp4QD+AdWLTMqEZAQ==
-  dependencies:
-    minimist "^1.2.0"
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
+  integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
 
 jsonfile@^2.1.0:
   version "2.4.0"
@@ -5269,10 +5267,10 @@ react-native-tab-view@^0.0.65:
   dependencies:
     prop-types "^15.5.8"
 
-react-native-v8@^0.60.4-patch.1:
-  version "0.60.4-patch.1"
-  resolved "https://registry.yarnpkg.com/react-native-v8/-/react-native-v8-0.60.4-patch.1.tgz#1e5b1a65d4b32e46bb7e9047ec9215029074135f"
-  integrity sha512-QeTu7cak1DitkBbuwERzP23TrHoJIRwLaSjyIi5sDp47Pk9HybQB8nuILHun19H76dn9q0Poy6wzOJhqIIDgiQ==
+react-native-v8@^0.60.0:
+  version "0.60.0"
+  resolved "https://registry.yarnpkg.com/react-native-v8/-/react-native-v8-0.60.0.tgz#60e33b54f7edb44eb3ad1421e5f9b557b6ba6360"
+  integrity sha512-bPPa4dHq2KfWls103gqG5ulLbvl+rXVY53TlLlKBTRPb77aT5M2y21SMU/R0qfN5RHT9u0gQNalhr+c2ly5lFg==
   dependencies:
     v8-android "^7.5.1"
 
